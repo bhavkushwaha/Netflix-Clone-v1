@@ -1,3 +1,12 @@
+# Netflix-Clone-v1
+The link to WebApp: https://netflix-clone-v1-bc3c1.web.app/
+<br><br>
+<img width="942" alt="netflixv1_ss1" src="https://user-images.githubusercontent.com/75977991/228861406-e9bc02d6-cffb-49da-bad7-0fec04ebec5b.png">
+<img width="944" alt="netflixv1_ss2" src="https://user-images.githubusercontent.com/75977991/228861436-8d538b21-970c-4660-9989-92a62866eff8.png">
+<img width="960" alt="netflixv1_ss3" src="https://user-images.githubusercontent.com/75977991/228861848-5773dda1-1caf-4503-928d-aa37c91e7296.png">
+<img width="953" alt="netflixv1_ss4" src="https://user-images.githubusercontent.com/75977991/228861520-7102a1f6-f666-428c-8f97-e01e31090cda.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
